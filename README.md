@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+HELLO EVERYBODY!
+
+This is Guna Sekhar. Iam just going to learn python on my interests. 
